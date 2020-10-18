@@ -1,0 +1,1 @@
+# all-static-HTML-and-CSS-projects
